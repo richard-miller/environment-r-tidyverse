@@ -1,5 +1,15 @@
 # environment-r-tidyverse
 
+nbgitputter ennviroment repo
+
+Use this repo to launch a binder enviroment and then nbgitplug in content repo:
+
+__https://mybinder.org/v2/gh/\<git-username\>/environment-r-tidyverse/master__
+
+
+
+https://mybinder.org/v2/gh/MQ-software-carpentry/environment-r-tidyverse/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FMQ-software-carpentry%252F2020-09-21-intro-to-r-workshop%26urlpath%3Drstudio%252F%26branch%3Dmaster
+
 BINDER Link (env):
 http://mybinder.org/v2/gh/MQ-software-carpentry/environment-r-tidyverse/master?urlpath=rstudio
 
