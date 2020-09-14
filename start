@@ -1,6 +1,0 @@
-#!/bin/bash
-
-date >> file
-pwd >> file
-cd 2020-09-21-introduction-to-r-workshop
-exec "$@"
