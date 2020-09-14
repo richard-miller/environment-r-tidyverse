@@ -116,7 +116,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
-export PS1='\e[01;32m\]bash\e[00m\]:\e[01;34m\]\w\e[00m\] $ '
+export PS1='\e[01;32m\]bash\e[00m\]:\e[01;34m\]\W\e[00m\] $ '
 
 # remove the conda init warnings ...
 clear
