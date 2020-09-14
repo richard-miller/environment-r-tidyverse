@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo start >> file
+pwd >> file
+cd 2020-09-21-intro-to-r-workshop
