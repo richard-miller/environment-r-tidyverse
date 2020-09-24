@@ -7,7 +7,7 @@
 - apt.txt: nano, vim
 - .gitconfig: default workshop name and email (so git commit is default happy)
 - .bashrc: shorter PS1
-- .local/bin/git-setup: configer git username / email script
+- .local/bin/git-setup: configurr git username / email shell script
 
 
 ## Binder Launcher
